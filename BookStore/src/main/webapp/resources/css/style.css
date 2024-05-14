@@ -1,0 +1,38 @@
+.title-group
+{
+	padding-top:8px;
+	padding-left:5px;
+	padding-bottom:10px;
+	display:block;
+	background-color:#343a40;
+	color:white;
+}
+#banner-slide
+{
+	margin-bottom:1px;
+	height:200px;
+	background-image:url(../images/banner-book.jpg);
+	background-repeat: no-repeat;
+	background-size:100%;
+	background-position: center;
+	background-color:rgb(174,181,200);
+}
+#content
+{
+	min-height:400px;
+}
+#footer{
+	height:80px;
+	padding-top:8px;
+	padding-left:5px;
+	padding-bottom:10px;
+	display:block;
+	background-color:#343a40;;
+	color:white;
+}
+.my-picture
+{
+	width:40px;
+	height:40px;
+	border-radius:20px;
+}
